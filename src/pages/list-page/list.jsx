@@ -67,6 +67,8 @@ const List = () => {
     </>
 }
 
+// 모달 전역상태 페이지로 빼주기 , 
+
 export default List
 
 
